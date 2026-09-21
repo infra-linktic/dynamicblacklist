@@ -65,7 +65,6 @@ deezer.com
 soundcloud.com
 tidal.com
 pandora.com
-music.youtube.com
 amazonmusic.com
 music.apple.com
 twitch.tv
