@@ -59,11 +59,8 @@ roku.com
 crunchyroll.com
 tubi.tv
 vix.com
-appletv.com
-tv.apple.com
 dazn.com
 peacocktv.com
-spotify.com
 deezer.com
 soundcloud.com
 tidal.com
