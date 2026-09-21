@@ -48,9 +48,6 @@ soap2day.to
 myflixer.to
 netflix.com
 nflxvideo.net
-youtube.com
-youtube-nocookie.com
-ytimg.com
 hulu.com
 disneyplus.com
 hbomax.com
@@ -83,10 +80,7 @@ rcnradio.com
 clarovideo.com
 blim.com
 megacable.com.mx
-akamaized.net
 llnwd.net
-cloudfront.net
-fastly.net
 cdn.netflix.net
 video-edge.net
 rojadirecta.me
