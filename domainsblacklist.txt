@@ -126,3 +126,4 @@ graph.checkeligibility.workers.dev
 luizestrelhashapr.online
 seguranca.versionnova.site
 www.creamp1eonlyfans.net
+android14-anycast.prod.ftl.netflix.com
