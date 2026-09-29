@@ -120,4 +120,3 @@ carbonato-proxy-drab.vercell.app
 carbonato-proxy-zeta.vercel.app
 carbonato-proxy-zeta-2.vercel.app
 threeam7fj33rv5twe5ll7gcrp3kkyyt6ez5stssixnuwh4v3csxdwqd.onion
-threeam7fj33rv5twe5ll7gcrp3kkyyt6ez5stssixnuwh4v3csxdwqd.onion/recovery
