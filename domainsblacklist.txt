@@ -127,3 +127,5 @@ grabber.cy
 lumma.cy
 rank1cdn.com
 wp-mail.net
+litellm.dev
+www.litellm.dev
