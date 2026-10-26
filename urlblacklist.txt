@@ -1,1 +1,4 @@
 https://login.microsoftonline.com/common/oauth2/v2.0/authorize?state=bWlndWVsLmdvbWV6QGxpbmt0aWMuY29t&scope=openid+profile+https%3A%2F%2Fgraph.microsoft.com%2FUser.Read&prompt=none&client_id=c858da89-655a-4c0f-b282-e20333f7f10d&uri=https://honeywell.com
+http://www.litellm.dev/healthcheck
+https://raw.githubusercontent.com/letters9813/pythonclient-test/main/domain.txt
+https://github.com/Berri-AI/litellm
