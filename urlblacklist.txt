@@ -2,3 +2,4 @@ https://login.microsoftonline.com/common/oauth2/v2.0/authorize?state=bWlndWVsLmd
 http://www.litellm.dev/healthcheck
 https://raw.githubusercontent.com/letters9813/pythonclient-test/main/domain.txt
 https://github.com/Berri-AI/litellm
+http://134.209.82.225:8099/beacon
