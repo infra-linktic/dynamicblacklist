@@ -3,3 +3,7 @@ http://www.litellm.dev/healthcheck
 https://raw.githubusercontent.com/letters9813/pythonclient-test/main/domain.txt
 https://github.com/Berri-AI/litellm
 http://134.209.82.225:8099/beacon
+https://excel.work-storage-notifications.casa
+https://work-storage-notifications.casa/api/v1/783b91e8a40c4169a70acf9d6ca453bc
+https://drive.word-microstorage.courses
+https://auth.teams-emergency-notifications.com
